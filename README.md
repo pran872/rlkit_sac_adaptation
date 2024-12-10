@@ -1,6 +1,6 @@
 # RLkit Soft Actor-Critic Adaptation
-This repository is based on https://github.com/rail-berkeley/rlkit. 
-This repo has multiple Reinforcement Leanring (RL) algorithms, but I have used it to only run the Soft Actor-Critic (SAC) algorithm.
+This repository is based on rlkit: https://github.com/rail-berkeley/rlkit.
+rlkit has multiple Reinforcement Leanring (RL) algorithms, but I have used it to only run the Soft Actor-Critic (SAC) algorithm.
 All edits made to the code are SAC related.
 
 To run SAC, I recommend running the requirements_sac.txt as it is updated.
