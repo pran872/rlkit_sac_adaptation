@@ -8,6 +8,7 @@ To run SAC, I recommend running the requirements_sac.txt as it is updated.
 System requirements:
 I have not tested this repository on any other system other than macOS running on an ARM-based Apple Silicon processor.
 Python 3.8 was used.
+You will need to install mujoco. Follow the instructions by the original SAC authors here: https://github.com/haarnoja/sac/tree/master.
 
 The following README by the original rlkit authors is useful in understanding the repository:
 # RLkit
